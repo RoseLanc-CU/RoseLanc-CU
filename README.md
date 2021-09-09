@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoseLanc-CU -- Rose 
 - 👀 I’m interested in optimization, data structures, computer systems, & UI/UX
-- 🌱 I’m currently learning Scala, Python 3, & AI 
+- 🌱 I’m currently learning Scala, Python 3, Operating Systems & AI 
 - 📫 How to reach me: asla0693@colorado.edu
 
 <!---
